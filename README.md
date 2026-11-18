@@ -2,7 +2,7 @@
 
 Готовые сборки Alpha Lite для Windows.
 
-- [Скачать AlphaLite.exe — версия 1.0.7](https://github.com/fabbiodev/Alpha-Releases/releases/download/lite-v1.0.7/AlphaLite.exe)
+- [Скачать AlphaLite.exe — версия 1.0.8](https://github.com/fabbiodev/Alpha-Releases/releases/download/lite-v1.0.8/AlphaLite.exe)
 - [Все релизы Alpha Lite](https://github.com/fabbiodev/Alpha-Releases/releases?q=lite-v)
 
 Откройте EXE и нажмите Launch. Меню — Insert. Автообновление использует этот публичный репозиторий без GitHub-аккаунта или токена.
